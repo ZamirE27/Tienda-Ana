@@ -60,7 +60,7 @@ public class Productos
                                 }
                                 else
                                 {
-                                    Console.WriteLine($"El valor Total es {total}");
+                                    Console.WriteLine($"El valor Total es {total} ");
 
                                 }
                                 return;
