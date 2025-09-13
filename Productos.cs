@@ -13,6 +13,7 @@ public class Productos
         //Se llama al metodo para comprar productos
         comprarProductos(productos, precio, stock);
         
+        
     }
 
     public static void mostrarProductos(string[] productos, double[] precio, int[] stock)
