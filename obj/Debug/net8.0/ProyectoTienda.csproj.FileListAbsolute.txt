@@ -26,3 +26,4 @@
 /home/zamir-estrada/Downloads/ProyectoTienda/ProyectoTienda/obj/Debug/net8.0/ProyectoTienda.pdb
 /home/zamir-estrada/Downloads/ProyectoTienda/ProyectoTienda/obj/Debug/net8.0/ProyectoTienda.genruntimeconfig.cache
 /home/zamir-estrada/Downloads/ProyectoTienda/ProyectoTienda/obj/Debug/net8.0/ref/ProyectoTienda.dll
+/home/zamir-estrada/Downloads/ProyectoTienda/ProyectoTienda/obj/Debug/net8.0/ProyectoTienda.sourcelink.json
